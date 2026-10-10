@@ -30,4 +30,6 @@ Em desenvolvimento
 Projeto voltado para prática de análise financeira, organização de dados e estudo de projeções em investimentos.
 
 ## Autor
-Dálmerson de Lima Oliveira
+
+**Dálmerson de Lima Oliveira**  
+GitHub: [dw-dev-cloud](https://github.com/dw-dev-cloud)
