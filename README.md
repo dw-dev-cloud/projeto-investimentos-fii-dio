@@ -30,4 +30,4 @@ Em desenvolvimento
 Projeto voltado para prática de análise financeira, organização de dados e estudo de projeções em investimentos.
 
 ## Autor
-Davi W.
+Dálmerson de Lima Oliveira
